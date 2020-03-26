@@ -1,0 +1,74 @@
+
+#General settings
+[elementaryores]
+
+	[elementaryores.end]
+
+		[elementaryores.end.ender]
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			high = 127
+			#How comoon are the End ore spawns
+			#Range: 0 ~ 64
+			size = 16
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			low = 1
+
+		[elementaryores.end.redstone]
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			high = 86
+			#How comoon are the End ore spawns
+			#Range: 0 ~ 64
+			size = 5
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			low = 1
+
+		[elementaryores.end.emerald]
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			high = 40
+			#How comoon are the End ore spawns
+			#Range: 0 ~ 64
+			size = 4
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			low = 1
+
+	[elementaryores.netherrack]
+
+		[elementaryores.netherrack.gold]
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			high = 85
+			#Size of nether ore veins
+			#Range: 0 ~ 64
+			size = 6
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			low = 16
+
+		[elementaryores.netherrack.diamond]
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			high = 127
+			#Size of nether ore veins
+			#Range: 0 ~ 64
+			size = 1
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			low = 1
+
+		[elementaryores.netherrack.lapis]
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			high = 127
+			#Size of nether ore veins
+			#Range: 0 ~ 64
+			size = 3
+			#Min and max y levels for spawn
+			#Range: 0 ~ 256
+			low = 70
+
