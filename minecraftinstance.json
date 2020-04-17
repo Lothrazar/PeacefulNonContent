@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-04-17T07:21:08.5960765Z",
+  "lastPlayed": "2020-04-17T23:36:08.2084784Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -3982,7 +3982,7 @@
         "gameVersionDateReleased": "2020-01-22T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "invcrafting-1.15.2-1.1.2.jar"
+        "FileNameOnDisk": "invcrafting-1.15.2-1.1.2.jar.disabled"
       },
       "dateInstalled": "2020-03-17T00:38:04.8090071Z",
       "dateUpdated": "2020-03-29T07:02:23.9529408Z",
@@ -5094,6 +5094,74 @@
       "dateInstalled": "2020-04-17T05:50:17.1640186Z",
       "dateUpdated": "2020-04-17T05:50:17.1670111Z",
       "dateLastUpdateAttempted": "2020-04-17T05:50:17.1670111Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 231275,
+      "gameInstanceID": "06022da1-1cd1-487d-8b7c-741388924048",
+      "installedFile": {
+        "id": 2913026,
+        "displayName": "Ding-1.15.2-1.1.0.jar",
+        "fileName": "Ding-1.15.2-1.1.0.jar",
+        "fileDate": "2020-03-26T05:59:37.743Z",
+        "fileLength": 8126,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2913/26/Ding-1.15.2-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 57702259,
+            "type": 0
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 2495627464,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2771153707,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3377428003,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1968274924,
+        "gameVersion": [
+          "Forge",
+          "1.15.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Ding-1.15.2-1.1.0.jar"
+      },
+      "dateInstalled": "2020-04-17T23:34:36.4841818Z",
+      "dateUpdated": "2020-04-17T23:34:36.5581461Z",
+      "dateLastUpdateAttempted": "2020-04-17T23:34:36.5581461Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
