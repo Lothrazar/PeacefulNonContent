@@ -32,13 +32,13 @@
 		#Default value for this gamerule
 		doDaylightCycle = true
 		#Default value for this gamerule
-		showDeathMessages = true
+		showDeathMessages = false
 		#Default value for this gamerule
 		doTileDrops = true
 		#Default value for this gamerule
 		doInsomnia = true
 		#Default value for this gamerule
-		doImmediateRespawn = false
+		doImmediateRespawn = true
 		#Default value for this gamerule
 		naturalRegeneration = true
 		#Default value for this gamerule
@@ -46,7 +46,7 @@
 		#Default value for this gamerule
 		fallDamage = true
 		#Default value for this gamerule
-		keepInventory = false
+		keepInventory = true
 		#Default value for this gamerule
 		doEntityDrops = true
 		#Default value for this gamerule
@@ -104,7 +104,7 @@
 			#If the keepInventory gamerule is true and keepArmor is false, you no longer keep any armor it dropped on death.
 			keepArmor = false
 			#If the keepInventory gamerule is true and keepArmor is false, you no longer keep any armor it dropped on death.
-			keepWeapons = false
+			keepWeapons = true
 			#If the keepInventory gamerule is true and keepExperience is false, you no longer keep any experience it is gone on death.
 			keepExperience = false
 
