@@ -32,7 +32,7 @@
 		#Default value for this gamerule
 		doDaylightCycle = true
 		#Default value for this gamerule
-		showDeathMessages = false
+		showDeathMessages = true
 		#Default value for this gamerule
 		doTileDrops = true
 		#Default value for this gamerule
